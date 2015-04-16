@@ -1,5 +1,5 @@
 django == 1.7.7
-django-cms == 3.0.12
+django-cms == 3.0.13
 django-sekizai == 0.8.1
 html5lib == 0.999
 django-mptt == 0.6.1
