@@ -27,7 +27,7 @@ SECRET_KEY = os.environ.get(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = os.environ.get(
     'DEBUG',
-    False
+    True
 )
 
 TEMPLATE_DEBUG = True
@@ -171,7 +171,7 @@ CMS_PLACEHOLDER_CONF = {}
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': 'project.db',
+        'NAME': os.path.join(BASE_DIR, 'project.db'),
         'HOST': 'localhost'
     }
 }
