@@ -1,7 +1,9 @@
 [![Stories in Ready](https://badge.waffle.io/robotix/robo_web.png?label=ready&title=Ready)](https://waffle.io/robotix/robo_web)
 [![Build Status](https://travis-ci.org/Robotix/robo_web.svg?branch=master)](https://travis-ci.org/Robotix/robo_web)
+[![Build Status](https://semaphoreci.com/api/v1/projects/d1574615-69d6-4e9b-9f53-acce136f4fb4/402482/badge.svg)](https://semaphoreci.com/narayanaditya95/robo_web)
 [![Code Health](https://landscape.io/github/Robotix/robo_web/master/landscape.svg?style=flat)](https://landscape.io/github/Robotix/robo_web/master)
 [![Coverage Status](https://coveralls.io/repos/Robotix/robo_web/badge.svg?branch=master)](https://coveralls.io/r/Robotix/robo_web?branch=master)
+[![Requirements Status](https://requires.io/github/Robotix/robo_web/requirements.svg?branch=master)](https://requires.io/github/Robotix/robo_web/requirements/?branch=master)
 #The Official repository for the next iteration of Robotix.in
 
 [![Join the chat at https://gitter.im/Robotix/robo_web](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Robotix/robo_web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
