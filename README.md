@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/robotix/robo_web.png?label=ready&title=Ready)](https://waffle.io/robotix/robo_web)
 [![Build Status](https://travis-ci.org/Robotix/robo_web.svg?branch=master)](https://travis-ci.org/Robotix/robo_web)
 [![Code Health](https://landscape.io/github/Robotix/robo_web/master/landscape.svg?style=flat)](https://landscape.io/github/Robotix/robo_web/master)
 [![Coverage Status](https://coveralls.io/repos/Robotix/robo_web/badge.svg?branch=master)](https://coveralls.io/r/Robotix/robo_web?branch=master)
