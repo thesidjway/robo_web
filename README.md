@@ -4,7 +4,7 @@
 [![Code Health](https://landscape.io/github/Robotix/robo_web/master/landscape.svg?style=flat)](https://landscape.io/github/Robotix/robo_web/master)
 [![Coverage Status](https://coveralls.io/repos/Robotix/robo_web/badge.svg?branch=master)](https://coveralls.io/r/Robotix/robo_web?branch=master)
 [![Requirements Status](https://requires.io/github/Robotix/robo_web/requirements.svg?branch=master)](https://requires.io/github/Robotix/robo_web/requirements/?branch=master)
-[![Codacy Badge](https://www.codacy.com/project/badge/3e7598d968b147178928c1f956d3c946](https://www.codacy.com/app/narayanaditya95/robo_web)
+[![Codacy Badge](https://www.codacy.com/project/badge/3e7598d968b147178928c1f956d3c946)](https://www.codacy.com/app/narayanaditya95/robo_web)
 #The Official repository for the next iteration of Robotix.in
 
 [![Join the chat at https://gitter.im/Robotix/robo_web](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Robotix/robo_web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
